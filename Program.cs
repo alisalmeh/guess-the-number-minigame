@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AliSalmeh_ProjectWeek5.MiniGame_Refactor
+namespace AliSalmeh_ProjectWeek5_MiniGame
 {
     class Program
     {
